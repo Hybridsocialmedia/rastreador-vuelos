@@ -1,0 +1,13 @@
+{
+  "name": "rastreador-vuelos",
+  "version": "1.0.0",
+  "description": "Servidor para rastreo de vuelos",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@supabase/supabase-js": "^2.43.4"
+  }
+}
