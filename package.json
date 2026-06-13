@@ -2,9 +2,9 @@
   "name": "rastreador-vuelos",
   "version": "1.0.0",
   "description": "Servidor para rastreo de vuelos",
-  "main": "servidor.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node servidor.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
